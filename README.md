@@ -57,6 +57,17 @@ Gather required files for the bot to work.
 
 ![Incoming Previews](assets/images/image-3.png)
 
+## 👗 Customize your AI! 
+### Change the language it talks in, it's tone, the lengthness of it, aswell as how many emojis you can use.
+### It's also possible to give it a custom prompt to give the user much more a freedom.
+### The last setting changes how creative the AI gets, aswell it's token usage.
+![Make the AI feel like you!](assets/images/image-4.png)
+
+## 😎 Per-Person AI
+### Do you have a lot of friends that have different personalities? You can configure the AI to act like how you would with them without changing the main prompt!
+
+![Per-Person Conversation](assets/images/image-5.png)
+
 <!-- End of Feature List -->
 
 # 💭 More features to be added soon...
