@@ -50,7 +50,7 @@ Gather required files for the bot to work.
 
 ![Conversation Reader](assets/images/image.png)
 
-
+#More features to be added soon...
 
 # Gemini API Key
 
