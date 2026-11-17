@@ -21,13 +21,13 @@ Gather required files for the bot to work.
 
 ```pip install -r requirements.txt```
 
-## [Latest Download Version available here!](https://github.com/SZEBIKAGamer72/TelegramAIreplier/releases/tag/Release)
+## [Latest Download Version available here!](https://github.com/SZEBIKAGamer72/TelegramAIreplier/releases/tag/Latest)
 
 # App features
 
 ## Gemini AI Tester
 ### Test Gemini's Connection to the app.
-#### You need an API key for this from your google account. (*Where can I find this?*)
+#### You need an API key for this from your google account. [(*Where can I find this?*)](#gemini-api-key)
 
 ![Version chooser and AI Debugger.](assets/images/image-1.png)
 
@@ -36,7 +36,7 @@ Gather required files for the bot to work.
 
 ![Telegram Window.](assets/images/image-2.png)
 
-# Need help setting up a Telegram bot? Click [here](Readme under construction)
+# Need help setting up a Telegram bot? Click [here](#how-to-setup-telegram-bot)
 
 ## Conversation Reader and allower
 ## Control who gets to be on the AI allow list, aswell as to see their name, their @, and their ID.
