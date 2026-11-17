@@ -54,11 +54,11 @@ Gather required files for the bot to work.
 
 # Gemini API Key
 
-Head over to [Your AI Gemini API Keys](aistudio.google.com/api-keys), then copy it into the test box within the app.
+Head over to [Your AI Gemini API Keys](https://aistudio.google.com/api-keys), then copy it into the test box within the app.
 
 # How to setup Telegram bot?
 
-Head over to [my.telegram.org](my.telegram.org), then once you are in Select "Development Tools".
+Head over to [my.telegram.org](https://my.telegram.org), then once you are in Select "Development Tools".
 
 Add a name for the app, get the *App api_id* and the *App api_hash* you are pretty much done.
 
