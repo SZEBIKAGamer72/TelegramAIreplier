@@ -41,11 +41,9 @@ Gather required files for the bot to work.
 ![Version chooser and AI Debugger.](assets/images/image-1.png)
 
 ## Telegram Connectivity
-### You will need to make a Telegram App and gather it's API keys.
+### You will need to make a Telegram App and gather it's API keys. [(How do I make a Telegram Bot?)](#how-to-setup-telegram-bot)
 
 ![Telegram Window.](assets/images/image-2.png)
-
-# Need help setting up a Telegram bot? Click [here](#how-to-setup-telegram-bot)
 
 ## Conversation Reader and allower
 ## Control who gets to be on the AI allow list, aswell as to see their name, their @, and their ID.
@@ -56,11 +54,11 @@ Gather required files for the bot to work.
 
 # Gemini API Key
 
-Head over to [https://aistudio.google.com/api-keys](Your AI Gemini API Keys), then copy it into the test box within the app.
+Head over to [Your AI Gemini API Keys](aistudio.google.com/api-keys), then copy it into the test box within the app.
 
 # How to setup Telegram bot?
 
-Head over to [https://my.telegram.org](my.telegram.org), then once you are in Select "Development Tools".
+Head over to [my.telegram.org](my.telegram.org), then once you are in Select "Development Tools".
 
 Add a name for the app, get the *App api_id* and the *App api_hash* you are pretty much done.
 
