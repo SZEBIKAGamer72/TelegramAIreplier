@@ -1,7 +1,7 @@
 # TelegramAIreplier
 A Python script dedicated to make automated responses incase you are not home, or just simply don't want to reply to someone you really don't like.
 
-How to install:
+# How to install:
 
 Download and install Python Version 3.14.3 or above.
 
@@ -21,4 +21,36 @@ Gather required files for the bot to work.
 
 ```pip install -r requirements.txt```
 
-[Latest Download Version available here!](https://github.com/SZEBIKAGamer72/TelegramAIreplier/releases/tag/Release)
+## [Latest Download Version available here!](https://github.com/SZEBIKAGamer72/TelegramAIreplier/releases/tag/Release)
+
+# App features
+
+## Gemini AI Tester
+### Test Gemini's Connection to the app.
+#### You need an API key for this from your google account. (*Where can I find this?*)
+
+![Version chooser and AI Debugger.](image-1.png)
+
+## Telegram Connectivity
+### You will need to make a Telegram App and gather it's API keys.
+
+![Telegram Window.](image-2.png)
+
+# Need help setting up a Telegram bot? Click [here](Readme under construction)
+
+## Conversation Reader and allower
+## Control who gets to be on the AI allow list, aswell as to see their name, their @, and their ID.
+
+![Conversation Reader](image.png)
+
+
+
+# Gemini API Key
+
+Head over to [https://aistudio.google.com/api-keys](Your AI Gemini API Keys), then copy it into the test box within the app.
+
+# How to setup Telegram bot?
+
+Head over to [https://my.telegram.org](my.telegram.org), then once you are in Select "Development Tools".
+Add a name for the app, get the *App api_id* and the *App api_hash* you are pretty much done.
+
