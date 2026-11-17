@@ -1,6 +1,15 @@
 # TelegramAIreplier
 A Python script dedicated to make automated responses incase you are not home, or just simply don't want to reply to someone you really don't like.
 
+# ⚠️DISCLAIMER⚠️
+## THIS PROJECT UTILIZED VIBE-CODING (AI CODING). IF YOU DO NOT LIKE VIBECODED PROJECTS THAT IS OKAY. THIS PROJECT WAS ONLY MADE FOR FUN PURPOSES AND SERVES 0 COMMERCIAL VALUE.
+
+# Availablility
+## Currently this is available for:
+### ✅ Windows
+### ❌ Mac
+### ❌ Linux
+
 # How to install:
 
 Download and install Python Version 3.14.3 or above.
@@ -52,5 +61,6 @@ Head over to [https://aistudio.google.com/api-keys](Your AI Gemini API Keys), th
 # How to setup Telegram bot?
 
 Head over to [https://my.telegram.org](my.telegram.org), then once you are in Select "Development Tools".
+
 Add a name for the app, get the *App api_id* and the *App api_hash* you are pretty much done.
 
