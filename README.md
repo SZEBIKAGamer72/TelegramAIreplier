@@ -29,19 +29,19 @@ Gather required files for the bot to work.
 ### Test Gemini's Connection to the app.
 #### You need an API key for this from your google account. (*Where can I find this?*)
 
-![Version chooser and AI Debugger.](main/image-1.png)
+![Version chooser and AI Debugger.](assets/images/image-1.png)
 
 ## Telegram Connectivity
 ### You will need to make a Telegram App and gather it's API keys.
 
-![Telegram Window.](main/image-2.png)
+![Telegram Window.](assets/images/image-2.png)
 
 # Need help setting up a Telegram bot? Click [here](Readme under construction)
 
 ## Conversation Reader and allower
 ## Control who gets to be on the AI allow list, aswell as to see their name, their @, and their ID.
 
-![Conversation Reader](main/image.png)
+![Conversation Reader](assets/images/image.png)
 
 
 
