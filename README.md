@@ -20,3 +20,5 @@ Make sure to update python and depencies.
 Gather required files for the bot to work.
 
 ```pip install -r requirements.txt```
+
+[Latest Download Version available here!](https://github.com/SZEBIKAGamer72/TelegramAIreplier/releases/tag/Release)
