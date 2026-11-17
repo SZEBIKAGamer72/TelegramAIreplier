@@ -30,33 +30,42 @@ Gather required files for the bot to work.
 
 ```pip install -r requirements.txt```
 
+<!-- Basic info ends here -->
+
 ## [Latest Download Version available here!](https://github.com/SZEBIKAGamer72/TelegramAIreplier/releases/tag/Latest)
 
 # App features
 
-## Gemini AI Tester
+## 🤖 Gemini AI Tester
 ### Test Gemini's Connection to the app.
 #### You need an API key for this from your google account. [(*Where can I find this?*)](#gemini-api-key)
 
 ![Version chooser and AI Debugger.](assets/images/image-1.png)
 
-## Telegram Connectivity
+## 🛜 Telegram Connectivity 
 ### You will need to make a Telegram App and gather it's API keys. [(How do I make a Telegram Bot?)](#how-to-setup-telegram-bot)
 
 ![Telegram Window.](assets/images/image-2.png)
 
-## Conversation Reader and allower
-## Control who gets to be on the AI allow list, aswell as to see their name, their @, and their ID.
+## 📖 Conversation Reader and allower 
+### Control who gets to be on the AI allow list, aswell as to see their name, their @, and their ID.
 
 ![Conversation Reader](assets/images/image.png)
 
-# More features to be added soon...
+## 👀 Incoming Preview of messages 
+### Be in control of what the message looks like, give it context on what to add.
 
-# Gemini API Key
+![Incoming Previews](assets/images/image-3.png)
+
+<!-- End of Feature List -->
+
+# 💭 More features to be added soon...
+
+# Gemini API Key 🔑
 
 Head over to [Your AI Gemini API Keys](https://aistudio.google.com/api-keys), then copy it into the test box within the app.
 
-# How to setup Telegram bot?
+# How to setup Telegram bot? 🤖
 
 Head over to [my.telegram.org](https://my.telegram.org), then once you are in Select "Development Tools".
 
